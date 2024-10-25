@@ -1,0 +1,1098 @@
+*************************** START ****************************
+START TIME: 202303312205
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0x7573f934
+mac h: 0xdc54
+get mac res: 1
+get flash id : 0x00164020
+manufacturer_id: 0x20
+device_id: 0x4016
+Wrote 12944 bytes (9310 compressed) at 0x00000000 in 0.1 seconds (effective 1504.8 kbit/s)...
+Hash of data verified.Wrote 3072 bytes (146 compressed) at 0x00008000 in 0.0 seconds (effective 2465.3 kbit/s)...
+Hash of data verified.Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.0 seconds (effective 6575.4 kbit/s)...
+Hash of data verified.Wrote 950544 bytes (520552 compressed) at 0x00010000 in 12.0 seconds (effective 631.3 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 16 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202303312207
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0x7573f934
+mac h: 0xdc54
+get mac res: 1
+get flash id : 0x00164020
+manufacturer_id: 0x20
+device_id: 0x4016
+Wrote 12944 bytes (9310 compressed) at 0x00000000 in 0.1 seconds (effective 1483.3 kbit/s)...
+Hash of data verified.Wrote 3072 bytes (146 compressed) at 0x00008000 in 0.0 seconds (effective 2739.3 kbit/s)...
+Hash of data verified.Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.0 seconds (effective 7300.3 kbit/s)...
+Hash of data verified.Wrote 226448 bytes (127098 compressed) at 0x00010000 in 2.8 seconds (effective 645.5 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 4 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202303312223
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0x7573f934
+mac h: 0xdc54
+get mac res: 1
+get flash id : 0x00164020
+manufacturer_id: 0x20
+device_id: 0x4016
+Wrote 12944 bytes (9310 compressed) at 0x00000000 in 0.1 seconds (effective 1483.3 kbit/s)...
+Hash of data verified.Wrote 3072 bytes (146 compressed) at 0x00008000 in 0.0 seconds (effective 2462.8 kbit/s)...
+Hash of data verified.Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.0 seconds (effective 7304.9 kbit/s)...
+Hash of data verified.Wrote 950544 bytes (520552 compressed) at 0x00010000 in 12.0 seconds (effective 634.8 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 16 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202303312241
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0x7573f934
+mac h: 0xdc54
+get mac res: 1
+get flash id : 0x00164020
+manufacturer_id: 0x20
+device_id: 0x4016
+Wrote 12944 bytes (9310 compressed) at 0x00000000 in 0.1 seconds (effective 1674.7 kbit/s)...
+Hash of data verified.Wrote 3072 bytes (146 compressed) at 0x00008000 in 0.0 seconds (effective 4108.2 kbit/s)...
+Hash of data verified.Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.0 seconds (effective 13145.1 kbit/s)...
+Hash of data verified.Wrote 674064 bytes (411172 compressed) at 0x00010000 in 8.8 seconds (effective 609.9 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 12 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202303312243
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0x7573f934
+mac h: 0xdc54
+get mac res: 1
+get flash id : 0x00164020
+manufacturer_id: 0x20
+device_id: 0x4016
+Wrote 12944 bytes (9310 compressed) at 0x00000000 in 0.1 seconds (effective 1526.9 kbit/s)...
+Hash of data verified.Wrote 3072 bytes (146 compressed) at 0x00008000 in 0.0 seconds (effective 3082.1 kbit/s)...
+Hash of data verified.Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.0 seconds (effective 9379.9 kbit/s)...
+Hash of data verified.Wrote 701408 bytes (427195 compressed) at 0x00010000 in 9.2 seconds (effective 607.3 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 12 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312245
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312246
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312247
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312248
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312248
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312248
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312248
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312248
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0x7573f934
+mac h: 0xdc54
+get mac res: 1
+get flash id : 0x00164020
+manufacturer_id: 0x20
+device_id: 0x4016
+Wrote 12944 bytes (9310 compressed) at 0x00000000 in 0.1 seconds (effective 1549.8 kbit/s)...
+Hash of data verified.Wrote 3072 bytes (146 compressed) at 0x00008000 in 0.0 seconds (effective 3082.3 kbit/s)...
+Hash of data verified.Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.0 seconds (effective 9370.0 kbit/s)...
+Hash of data verified.Wrote 674064 bytes (411172 compressed) at 0x00010000 in 8.8 seconds (effective 614.5 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 12 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202303312301
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0x7573f934
+mac h: 0xdc54
+get mac res: 1
+get flash id : 0x00164020
+manufacturer_id: 0x20
+device_id: 0x4016
+Wrote 12944 bytes (9310 compressed) at 0x00000000 in 0.1 seconds (effective 1702.1 kbit/s)...
+Hash of data verified.Wrote 3072 bytes (146 compressed) at 0x00008000 in 0.0 seconds (effective 4927.1 kbit/s)...
+Hash of data verified.Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.0 seconds (effective 13142.6 kbit/s)...
+Hash of data verified.Wrote 674064 bytes (411172 compressed) at 0x00010000 in 8.8 seconds (effective 614.2 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 12 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202303312347
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0x7573f934
+mac h: 0xdc54
+get mac res: 1
+get flash id : 0x00164020
+manufacturer_id: 0x20
+device_id: 0x4016
+Wrote 12944 bytes (9310 compressed) at 0x00000000 in 0.1 seconds (effective 1622.3 kbit/s)...
+Hash of data verified.Wrote 3072 bytes (146 compressed) at 0x00008000 in 0.0 seconds (effective 3520.0 kbit/s)...
+Hash of data verified.Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.0 seconds (effective 9385.3 kbit/s)...
+Hash of data verified.Wrote 701408 bytes (427195 compressed) at 0x00010000 in 9.2 seconds (effective 607.3 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 12 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202303312349
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312349
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312349
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312349
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312349
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312349
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202303312349
+CONNECT BAUD: 115200
+set STOP FLG: True===============BAUD : 115200===============set state: ESP_DL_STOP
+*************************** START ****************************
+START TIME: 202303312349
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0x7573f934
+mac h: 0xdc54
+get mac res: 1
+get flash id : 0x00164020
+manufacturer_id: 0x20
+device_id: 0x4016
+Wrote 12944 bytes (9310 compressed) at 0x00000000 in 0.1 seconds (effective 1442.1 kbit/s)...
+Hash of data verified.Wrote 3072 bytes (146 compressed) at 0x00008000 in 0.0 seconds (effective 2463.4 kbit/s)...
+Hash of data verified.Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.0 seconds (effective 7303.0 kbit/s)...
+Hash of data verified.Wrote 674064 bytes (411172 compressed) at 0x00010000 in 8.8 seconds (effective 614.3 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 12 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202303312350
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0x7573f934
+mac h: 0xdc54
+get mac res: 1
+get flash id : 0x00164020
+manufacturer_id: 0x20
+device_id: 0x4016
+Wrote 12944 bytes (9310 compressed) at 0x00000000 in 0.1 seconds (effective 1549.7 kbit/s)...
+Hash of data verified.Wrote 3072 bytes (146 compressed) at 0x00008000 in 0.0 seconds (effective 2239.6 kbit/s)...
+Hash of data verified.Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.0 seconds (effective 6568.6 kbit/s)...
+Hash of data verified.Wrote 950544 bytes (520552 compressed) at 0x00010000 in 12.0 seconds (effective 633.3 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 16 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202304010001
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202304010001
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202304010001
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202304010001
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202304010001
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202304010001
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202304010001
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202304010001
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0x7573f934
+mac h: 0xdc54
+get mac res: 1
+get flash id : 0x00164020
+manufacturer_id: 0x20
+device_id: 0x4016
+Wrote 12944 bytes (9310 compressed) at 0x00000000 in 0.1 seconds (effective 1526.9 kbit/s)...
+Hash of data verified.Wrote 3072 bytes (146 compressed) at 0x00008000 in 0.0 seconds (effective 2240.2 kbit/s)...
+Hash of data verified.Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.0 seconds (effective 7301.3 kbit/s)...
+Hash of data verified.Wrote 701408 bytes (427195 compressed) at 0x00010000 in 9.2 seconds (effective 609.7 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 12 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202304010013
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202304010013
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202304010013
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202304010013
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202304010013
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202304010013
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202304010013
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202304010013
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202304010013
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202304010013
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0x7573f934
+mac h: 0xdc54
+get mac res: 1
+get flash id : 0x00164020
+manufacturer_id: 0x20
+device_id: 0x4016
+Wrote 12944 bytes (9310 compressed) at 0x00000000 in 0.1 seconds (effective 1483.3 kbit/s)...
+Hash of data verified.Wrote 3072 bytes (146 compressed) at 0x00008000 in 0.0 seconds (effective 3080.3 kbit/s)...
+Hash of data verified.Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.0 seconds (effective 9433.3 kbit/s)...
+Hash of data verified.Wrote 226448 bytes (127098 compressed) at 0x00010000 in 2.8 seconds (effective 644.4 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 4 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202304010034
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202304010034
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202304010034
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0x7573f934
+mac h: 0xdc54
+get mac res: 1
+get flash id : 0x00164020
+manufacturer_id: 0x20
+device_id: 0x4016
+Wrote 12944 bytes (9310 compressed) at 0x00000000 in 0.1 seconds (effective 1549.7 kbit/s)...
+Hash of data verified.Wrote 3072 bytes (146 compressed) at 0x00008000 in 0.0 seconds (effective 4106.7 kbit/s)...
+Hash of data verified.Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.0 seconds (effective 13142.0 kbit/s)...
+Hash of data verified.Wrote 701408 bytes (427195 compressed) at 0x00010000 in 9.2 seconds (effective 611.4 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 12 s
+Download result: PASS
+*************************** END ****************************
+

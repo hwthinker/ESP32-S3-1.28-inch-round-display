@@ -1,0 +1,58 @@
+*************************** START ****************************
+START TIME: 202306201457
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0x3b99f634
+mac h: 0xecda
+get mac res: 1
+get flash id : 0x001740ef
+manufacturer_id: 0xef
+device_id: 0x4017
+Wrote 14768 bytes (10148 compressed) at 0x00000000 in 0.1 seconds (effective 923.3 kbit/s)...
+Hash of data verified.Wrote 3072 bytes (146 compressed) at 0x00008000 in 0.0 seconds (effective 2047.2 kbit/s)...
+Hash of data verified.Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.0 seconds (effective 4106.2 kbit/s)...
+Hash of data verified.Wrote 246192 bytes (136940 compressed) at 0x00010000 in 2.5 seconds (effective 799.0 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 5 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202306201458
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0x3b99f634
+mac h: 0xecda
+get mac res: 1
+get flash id : 0x001740ef
+manufacturer_id: 0xef
+device_id: 0x4017
+Wrote 14768 bytes (10148 compressed) at 0x00000000 in 0.1 seconds (effective 895.3 kbit/s)...
+Hash of data verified.Wrote 3072 bytes (146 compressed) at 0x00008000 in 0.0 seconds (effective 1455.6 kbit/s)...
+Hash of data verified.Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.0 seconds (effective 3948.3 kbit/s)...
+Hash of data verified.Wrote 246192 bytes (136940 compressed) at 0x00010000 in 2.5 seconds (effective 797.9 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 5 s
+Download result: PASS
+*************************** END ****************************
+
